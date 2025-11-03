@@ -1,4 +1,7 @@
-This Code was part of my master thesis, and was given the right to publish it.
+# Internship Context and Objective
+
+The internship focuses on satellite image processing using artificial intelligence, with the main objective of achieving automatic contour detection to produce very high-resolution land-cover maps. This work falls within the field of image segmentation, aiming to identify and extract different objects such as buildings, fields, forests, and roads.
+It contributes to an innovation effort aimed at improving automation in satellite image interpretation that can reduce manual processing time and enhance mapping accuracy in land-cover production.
 
 # Overview
 This project utilizes remote sensing data to classify land cover types within specific regions using machine learning techniques. By analyzing multispectral imagery and applying various processing techniques, the project aims to enhance our understanding of land use and vegetation health.
@@ -27,5 +30,5 @@ The project can also generate polygon shapefiles for vector analysis of the clas
 Large range of data such as: RGB, IR, height elevation, etc.
 
 
-Input (rgb):	![village](village_rgb.PNG)
-output (no shadow post process):	![classif Bafro](classif__no shadow.PNG)
+Input (rgb):	![village](data/village_rgb.PNG)
+output (no shadow post process):	![classif Bafro](data/classif__no shadow.PNG)
