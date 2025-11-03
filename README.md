@@ -32,3 +32,7 @@ Large range of data such as: RGB, IR, height elevation, etc.
 
 Input (rgb):	![village](data/village_rgb.PNG)
 output (no shadow post process):	![classif Bafro](data/classif__no_shadow.PNG)
+
+MIT License
+
+Copyright (c) 2025 Gainon Cyril
